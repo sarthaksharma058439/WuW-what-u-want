@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "508115194036",
+    "firebase_url": "https://whatuwant-300a8.firebaseio.com",
+    "project_id": "whatuwant-300a8",
+    "storage_bucket": "whatuwant-300a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508115194036:android:fe24c3e6e3f586686a07e1",
+        "android_client_info": {
+          "package_name": "com.rakibul.haque.whatuwant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508115194036-8f13u1t9noltfitg97p84shjnao07an7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rakibul.haque.whatuwant",
+            "certificate_hash": "f5cbd225792c5c8354750c32f29f7b295bd39c75"
+          }
+        },
+        {
+          "client_id": "508115194036-pvpdgkdsfcuvm84afhbm1ueb8bvtoo8e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr7s9xqG0V2tPCMQ-yLiy3GaA7KXL_MdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508115194036-pvpdgkdsfcuvm84afhbm1ueb8bvtoo8e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
